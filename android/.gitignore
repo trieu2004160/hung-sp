@@ -14,4 +14,4 @@ local.properties
 
 # Bundle artifacts
 *.jsbundle
-node_modules
+node_modules/
